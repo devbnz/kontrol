@@ -1,0 +1,10 @@
+<resources>
+    <string name="launch_name">KK</string>
+    <string name="app_name">Komplete Kontrol</string>
+    <string name="error_loading">Error while fetching data.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer">Platforms</string>
+</resources>
